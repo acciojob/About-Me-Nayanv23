@@ -1,1 +1,22 @@
-
+.main{
+	display:flex;
+}
+.sec-11{
+	display:flex;
+}
+.skill-top{
+	display:flex;
+	justify-content:space-between;
+	font-size:13px;
+	margin-bottom:4px;
+}
+.bar {
+  height: 6px;
+  background: #e5e5e5;
+}
+.fill{
+	height:100%;
+	background: #007bff;
+}
+.p95 { width: 95%; }
+.p90 { width: 90%; }
